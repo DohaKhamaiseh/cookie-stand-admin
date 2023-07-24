@@ -1,6 +1,6 @@
 # Words_Project
 
-# LAB - Class 37
+# LAB - Class 37-38
 
 ## Project: Cookie Stand Admin
 ---
