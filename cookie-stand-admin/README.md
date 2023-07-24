@@ -1,4 +1,4 @@
-# LAB - Class 37
+# LAB - Class 38
 
 ## Project: Cookie Stand Admin
 ---
@@ -17,4 +17,4 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-## [Pull Request](https://github.com/DohaKhamaiseh/cookie-stand-admin/pull/6)
+## [Pull Request](https://github.com/DohaKhamaiseh/cookie-stand-admin/pull/4)
