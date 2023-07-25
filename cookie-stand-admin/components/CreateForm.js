@@ -35,7 +35,7 @@ export default function CreateForm(props) {
               <input type="text" id="Average" name="Average" />
             </div>
   
-            <button className=" bg-gray-500 text-gray-50 w-40 font-mono">Create</button>
+            <button className=" bg-gray-500 text-gray-50 w-40 font-mono rounded-md">Create</button>
           </div>
   
   
