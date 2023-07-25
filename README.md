@@ -1,6 +1,6 @@
-# Words_Project
+# Cookie Stands_Project
 
-# LAB - Class 37-38
+# LAB - Class 37-38-39
 
 ## Project: Cookie Stand Admin
 ---
@@ -19,4 +19,4 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-## [Pull Request](https://github.com/DohaKhamaiseh/cookie-stand-admin/pull/4)
+## [Pull Request](https://github.com/DohaKhamaiseh/cookie-stand-admin/pull/8)
