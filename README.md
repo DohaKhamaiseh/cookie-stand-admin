@@ -14,3 +14,5 @@ npm run dev
 
 
 ### Back-End deploy link : https://cookie-stand-5m82eq59a-dohakhamaiseh.vercel.app/
+
+### PR : https://github.com/DohaKhamaiseh/cookie-stand-admin/pull/13
